@@ -1,28 +1,33 @@
-# OS generated files #
-######################
+# OS and IDE generated files #
+##############################
 /*.db
 .DS_Store
+.vscode
+.history
+/.idea
 
 # Config and output files #
 ###########################
 
 /_site/
 
-/.*
-!/.github
-!/.github/**
-
-/*.yml
-!/_config.yml
-!/_config.prod.yml
-!/_config.checks.yml
-!/_config.stage.yml
+_config.local.yml
+.jekyll-metadata
+.jekyll-cache
+.whatsup.yml
 
 *.bat
-*.sh
 /tmp/
-!/**/samples/*.sh
 /vendor/
 /node_modules/
 
 _algolia_api_key
+
+# Docs from different repositories #
+###################################
+
+/src/mbi/
+/src/page-builder/
+/src/page-builder-migration/
+/src/guides/m1x/
+/src/mftf/
