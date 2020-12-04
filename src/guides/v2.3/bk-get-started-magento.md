@@ -12,6 +12,8 @@ functional_areas:
 
 Welcome to Magento 2.0 documentation! And welcome to Magento 2.0!
 
+M2
+
 Here we explain the Magento platform and components from the perspective of several audiences: merchants, web store developers (frontend developers), [extension](https://glossary.magento.com/extension) developers, system administrators, installers, and integrators.
 
 Magento is a highly-customizable eCommerce platform and content management system that is primarily used to build online storefronts or websites for selling merchandise.
